@@ -50,9 +50,9 @@ This project analyzes eCommerce transaction data to provide actionable insights 
 
 ## Results
 ### EDA Insights
-- **Top Products**: Product X contributes the most to total sales.
+- **Top Products**: Product Activewear Smartwatch contributes the most to total sales.
 - **Sales Trends**: Sales peak during the holiday season.
-- **Regional Performance**: Region A generates the highest revenue.
+- **Regional Performance**: Region South America generates the highest revenue.
 
 ### Lookalike Model
 - Successfully identified top-3 similar customers for each user using transaction and profile data.
